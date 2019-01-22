@@ -1,2 +1,8 @@
-# recognize-license-plate
-Recognize license plate with Python + OpenCV + ML(Google Vision)
+# Recognize license plate 100% accurate
+Using Python + OpenCV + ML(Google Vision)
+
+# Pre-require:
+- Python 3
+- pip install opencv-python
+- pip install google-cloud-vision
+- client_key.json with role "AutoML Service Agent"
